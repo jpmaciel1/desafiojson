@@ -1,0 +1,168 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Moletom Vermelho Cabral",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed interdum felis ac eros fermentum finibus. Quisque nec ipsum lacinia, ultricies enim in, semper massa.",
+            "color": "red",
+            "price": "345.90",
+            "discount": "30",
+            "sizes": [
+                "P",
+                "G",
+                "XG"
+            ],
+            "img": [
+                "/images/products/moletom1.jpg",
+                "/images/products/moletom2.jpg"
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Calça Black Jeans",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed interdum felis ac eros fermentum finibus. Quisque nec ipsum lacinia, ultricies enim in, semper massa.",
+            "color": "black",
+            "price": "345.90",
+            "discount": "20",
+            "sizes": [
+                "P",
+                "M",
+                "G",
+                "XG"
+            ],
+            "img": [
+                "/images/products/tshirt-branca.jpg"
+            ]
+        },
+        {
+            "id": 3,
+            "name": "T-shirt Cinza Gola V",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed interdum felis ac eros fermentum finibus. Quisque nec ipsum lacinia, ultricies enim in, semper massa.",
+            "color": "gray",
+            "price": "345.90",
+            "discount": "",
+            "sizes": [
+                "P",
+                "M",
+                "G",
+                "XG"
+            ],
+            "img":[ "/images/products/tshirt-cinza.jpg"
+            ]
+            },
+        {
+            "id": 4,
+            "name": "T-shirt Branca Gola V",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed interdum felis ac eros fermentum finibus. Quisque nec ipsum lacinia, ultricies enim in, semper massa.",
+            "color": "white",
+            "price": "345.90",
+            "discount": "",
+            "sizes": [
+                "P",
+                "M",
+                "G",
+                "XG"
+            ],
+            "img": ["/images/products/tshirt-branca.jpg"
+        ]
+        },
+        {
+            "id": 5,
+            "name": "T-shirt Preta 1",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed interdum felis ac eros fermentum finibus. Quisque nec ipsum lacinia, ultricies enim in, semper massa.",
+            "color": "black",
+            "price": "345.90",
+            "discount": "",
+            "sizes": [
+                "P",
+                "M",
+                "G",
+                "XG"
+            ],
+            "img": ["/images/products/tshirt-preta.jpg"
+        ]
+        },
+        {
+            "id": 6,
+            "name": "T-shirt Cinza Gola V 1",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed interdum felis ac eros fermentum finibus. Quisque nec ipsum lacinia, ultricies enim in, semper massa.",
+            "color": "gray",
+            "price": "345.90",
+            "discount": "",
+            "sizes": [
+                "P",
+                "M",
+                "G",
+                "XG"
+            ],
+            "img":[ "/images/products/tshirt-cinza.jpg"
+            ]
+            },
+            {
+                "id": 7,
+                "name": "T-shirt Preta 2",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed interdum felis ac eros fermentum finibus. Quisque nec ipsum lacinia, ultricies enim in, semper massa.",
+                "color": "black",
+                "price": "345.90",
+                "discount": "",
+                "sizes": [
+                    "P",
+                    "M",
+                    "G",
+                    "XG"
+                ],
+                "img": ["/images/products/tshirt-preta.jpg"
+            ]
+            },
+            {
+                "id": 8,
+                "name": "Calça Black Jeans 1",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed interdum felis ac eros fermentum finibus. Quisque nec ipsum lacinia, ultricies enim in, semper massa.",
+                "color": "black",
+                "price": "345.90",
+                "discount": "20",
+                "sizes": [
+                    "P",
+                    "M",
+                    "G",
+                    "XG"
+                ],
+                "img": [
+                    "/images/products/tshirt-branca.jpg"
+                ]
+            },
+            {
+                "id": 9,
+                "name": "Moletom Vermelho Cabral 1",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed interdum felis ac eros fermentum finibus. Quisque nec ipsum lacinia, ultricies enim in, semper massa.",
+                "color": "red",
+                "price": "345.90",
+                "discount": "30",
+                "sizes": [
+                    "P",
+                    "G",
+                    "XG"
+                ],
+                "img": [
+                    "/images/products/moletom1.jpg",
+                    "/images/products/moletom2.jpg"
+                ]
+            },
+            {
+                "id": 10,
+                "name": "T-shirt Preta 3",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed interdum felis ac eros fermentum finibus. Quisque nec ipsum lacinia, ultricies enim in, semper massa.",
+                "color": "black",
+                "price": "345.90",
+                "discount": "",
+                "sizes": [
+                    "P",
+                    "M",
+                    "G",
+                    "XG"
+                ],
+                "img": ["/images/products/tshirt-preta.jpg"
+            ]
+            }
+    ]
+}
