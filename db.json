@@ -2,7 +2,7 @@
     "products": [
         {
             "id": 1,
-            "name": "Moletom Vermelho Cabral",
+            "name": "Moletom Vermelho",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed interdum felis ac eros fermentum finibus. Quisque nec ipsum lacinia, ultricies enim in, semper massa.",
             "color": "red",
             "price": "345.90",
@@ -133,7 +133,7 @@
             },
             {
                 "id": 9,
-                "name": "Moletom Vermelho Cabral 1",
+                "name": "Moletom Vermelho 1",
                 "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed interdum felis ac eros fermentum finibus. Quisque nec ipsum lacinia, ultricies enim in, semper massa.",
                 "color": "red",
                 "price": "345.90",
