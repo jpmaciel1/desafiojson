@@ -31,6 +31,7 @@
                 "XG"
             ],
             "img": [
+                "/images/products/tshirt-branca.jpg",
                 "/images/products/tshirt-branca.jpg"
             ]
         },
@@ -47,7 +48,9 @@
                 "G",
                 "XG"
             ],
-            "img":[ "/images/products/tshirt-cinza.jpg"
+            "img":[ 
+                "/images/products/tshirt-cinza.jpg",
+                "/images/products/tshirt-cinza.jpg"
             ]
             },
         {
@@ -63,7 +66,9 @@
                 "G",
                 "XG"
             ],
-            "img": ["/images/products/tshirt-branca.jpg"
+            "img": [
+                "/images/products/tshirt-branca.jpg",
+                "/images/products/tshirt-branca.jpg"
         ]
         },
         {
@@ -79,7 +84,9 @@
                 "G",
                 "XG"
             ],
-            "img": ["/images/products/tshirt-preta.jpg"
+            "img": [
+                "/images/products/tshirt-preta.jpg",
+                "/images/products/tshirt-preta.jpg"
         ]
         },
         {
@@ -95,7 +102,9 @@
                 "G",
                 "XG"
             ],
-            "img":[ "/images/products/tshirt-cinza.jpg"
+            "img":[ 
+                "/images/products/tshirt-cinza.jpg",
+                "/images/products/tshirt-cinza.jpg"
             ]
             },
             {
@@ -111,7 +120,9 @@
                     "G",
                     "XG"
                 ],
-                "img": ["/images/products/tshirt-preta.jpg"
+                "img": [
+                    "/images/products/tshirt-preta.jpg",
+                    "/images/products/tshirt-preta.jpg"
             ]
             },
             {
@@ -128,6 +139,7 @@
                     "XG"
                 ],
                 "img": [
+                    "/images/products/tshirt-branca.jpg",
                     "/images/products/tshirt-branca.jpg"
                 ]
             },
@@ -161,7 +173,9 @@
                     "G",
                     "XG"
                 ],
-                "img": ["/images/products/tshirt-preta.jpg"
+                "img": [
+                    "/images/products/tshirt-preta.jpg",
+                    "/images/products/tshirt-preta.jpg"
             ]
             }
     ]
