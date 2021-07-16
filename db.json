@@ -7,6 +7,7 @@
             "color": "red",
             "price": "345.90",
             "discount": "30",
+            "final-price": "242.13",
             "quantity": 1,
             "sizes": [
                 "P",
@@ -26,6 +27,7 @@
             "color": "black",
             "price": "345.90",
             "discount": "20",
+            "final-price": "276.72",
             "quantity": 1,
             "sizes": [
                 "P",
@@ -41,11 +43,12 @@
         },
         {
             "id": 3,
-            "name": "T-shirt Cinza Gola V",
+            "name": "T-shirt Cinza",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed interdum felis ac eros fermentum finibus. Quisque nec ipsum lacinia, ultricies enim in, semper massa.",
             "color": "gray",
             "price": "345.90",
             "discount": "",
+            "final-price": "345.90",
             "quantity": 1,
             "sizes": [
                 "P",
@@ -61,11 +64,12 @@
             },
         {
             "id": 4,
-            "name": "T-shirt Branca Gola V",
+            "name": "T-shirt Branca",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed interdum felis ac eros fermentum finibus. Quisque nec ipsum lacinia, ultricies enim in, semper massa.",
             "color": "white",
             "price": "345.90",
             "discount": "",
+            "final-price": "345.90",
             "quantity": 1,
             "sizes": [
                 "P",
@@ -81,11 +85,12 @@
         },
         {
             "id": 5,
-            "name": "T-shirt Preta 1",
+            "name": "Calça Jeans",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed interdum felis ac eros fermentum finibus. Quisque nec ipsum lacinia, ultricies enim in, semper massa.",
             "color": "black",
             "price": "345.90",
             "discount": "",
+            "final-price": "345.90",
             "quantity": 1,
             "sizes": [
                 "P",
@@ -101,11 +106,12 @@
         },
         {
             "id": 6,
-            "name": "T-shirt Cinza Gola V 1",
+            "name": "Calça Jeans Skinny",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed interdum felis ac eros fermentum finibus. Quisque nec ipsum lacinia, ultricies enim in, semper massa.",
             "color": "gray",
             "price": "345.90",
             "discount": "",
+            "final-price": "345.90",
             "quantity": 1,
             "sizes": [
                 "P",
@@ -121,11 +127,12 @@
             },
             {
                 "id": 7,
-                "name": "T-shirt Preta 2",
+                "name": "Calça Cinza",
                 "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed interdum felis ac eros fermentum finibus. Quisque nec ipsum lacinia, ultricies enim in, semper massa.",
                 "color": "black",
                 "price": "345.90",
                 "discount": "",
+                "final-price": "345.90",
                 "quantity": 1,
                 "sizes": [
                     "P",
@@ -141,11 +148,12 @@
             },
             {
                 "id": 8,
-                "name": "Calça Black Jeans 1",
+                "name": "Calça Black Skinny",
                 "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed interdum felis ac eros fermentum finibus. Quisque nec ipsum lacinia, ultricies enim in, semper massa.",
                 "color": "black",
                 "price": "345.90",
-                "discount": "20",
+                "discount": "",
+                "final-price": "345.90",
                 "quantity": 1,
                 "sizes": [
                     "P",
@@ -161,11 +169,12 @@
             },
             {
                 "id": 9,
-                "name": "Moletom Vermelho 1",
+                "name": "Jeans Justo",
                 "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed interdum felis ac eros fermentum finibus. Quisque nec ipsum lacinia, ultricies enim in, semper massa.",
                 "color": "red",
                 "price": "345.90",
-                "discount": "30",
+                "discount": "",
+                "final-price": "345.90",
                 "quantity": 1,
                 "sizes": [
                     "P",
@@ -180,11 +189,12 @@
             },
             {
                 "id": 10,
-                "name": "T-shirt Preta 3",
+                "name": "Calça Cargo",
                 "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed interdum felis ac eros fermentum finibus. Quisque nec ipsum lacinia, ultricies enim in, semper massa.",
                 "color": "black",
                 "price": "345.90",
                 "discount": "",
+                "final-price": "345.90",
                 "quantity": 1,
                 "sizes": [
                     "P",
