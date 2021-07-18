@@ -5,7 +5,7 @@
             "name": "Moletom Vermelho",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed interdum felis ac eros fermentum finibus. Quisque nec ipsum lacinia, ultricies enim in, semper massa.",
             "color": "red",
-            "price": "345.90",
+            "price": 345.90,
             "discount": "30",
             "finalPrice": "242.13",
             "quantity": 1,
