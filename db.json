@@ -7,7 +7,7 @@
             "color": "red",
             "price": "345.90",
             "discount": "30",
-            "final-price": "242.13",
+            "finalPrice": "242.13",
             "quantity": 1,
             "sizes": [
                 "P",
@@ -27,7 +27,7 @@
             "color": "black",
             "price": "345.90",
             "discount": "20",
-            "final-price": "276.72",
+            "finalPrice": "276.72",
             "quantity": 1,
             "sizes": [
                 "P",
@@ -48,7 +48,7 @@
             "color": "gray",
             "price": "345.90",
             "discount": "",
-            "final-price": "345.90",
+            "finalPrice": "345.90",
             "quantity": 1,
             "sizes": [
                 "P",
@@ -69,7 +69,7 @@
             "color": "white",
             "price": "345.90",
             "discount": "",
-            "final-price": "345.90",
+            "finalPrice": "345.90",
             "quantity": 1,
             "sizes": [
                 "P",
@@ -90,7 +90,7 @@
             "color": "black",
             "price": "345.90",
             "discount": "",
-            "final-price": "345.90",
+            "finalPrice": "345.90",
             "quantity": 1,
             "sizes": [
                 "P",
@@ -111,7 +111,7 @@
             "color": "gray",
             "price": "345.90",
             "discount": "",
-            "final-price": "345.90",
+            "finalPrice": "345.90",
             "quantity": 1,
             "sizes": [
                 "P",
@@ -132,7 +132,7 @@
                 "color": "black",
                 "price": "345.90",
                 "discount": "",
-                "final-price": "345.90",
+                "finalPrice": "345.90",
                 "quantity": 1,
                 "sizes": [
                     "P",
@@ -153,7 +153,7 @@
                 "color": "black",
                 "price": "345.90",
                 "discount": "",
-                "final-price": "345.90",
+                "finalPrice": "345.90",
                 "quantity": 1,
                 "sizes": [
                     "P",
@@ -174,7 +174,7 @@
                 "color": "red",
                 "price": "345.90",
                 "discount": "",
-                "final-price": "345.90",
+                "finalPrice": "345.90",
                 "quantity": 1,
                 "sizes": [
                     "P",
@@ -194,7 +194,7 @@
                 "color": "black",
                 "price": "345.90",
                 "discount": "",
-                "final-price": "345.90",
+                "finalPrice": "345.90",
                 "quantity": 1,
                 "sizes": [
                     "P",
